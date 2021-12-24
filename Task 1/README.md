@@ -5,12 +5,12 @@ From the text file above, there will be 17712 strings. Based on the FIBONACCI se
 
 Each element of an extracted array will contain only one string. Then you need to combine every two elements of the array(number array*) to form a two-digit number. The two-digit number is an  ASCII code and you need to convert them to a bunch of characters to get the passcode. You need to print out the passcode as the output of the code and use the passcode for the following task. 
 
-**Hint: You are required to convert the string to a number based on the table as reference. **
+**Hint: You are required to convert the string to a number based on the table as reference.**
 
-Expected output:
+ Expected output:
 
-Fibonacci Series:
-1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711
-
-Passcode: 
-xxxxxxxxxxx
+ Fibonacci Series:
+ 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711
+ 
+ Passcode: 
+ xxxxxxxxxxx
