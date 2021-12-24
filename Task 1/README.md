@@ -7,10 +7,10 @@ Each element of an extracted array will contain only one string. Then you need t
 
 **Hint: You are required to convert the string to a number based on the table as reference.**
 
- Expected output:
+    Expected output:
 
- Fibonacci Series:
- 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711
- 
- Passcode: 
- xxxxxxxxxxx
+    Fibonacci Series:
+    1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711
+   
+    Passcode: 
+    xxxxxxxxxxx
