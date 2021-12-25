@@ -21,3 +21,6 @@ Google Drive link format: https://cutt.ly/_______________ .
                                                                .
                                                                .
     ##########################################################  #############################################################
+
+Example of screenshot for the image:
+![Example of screenshot for the image](https://github.com/BehMK/BehMK/blob/main/Screenshot%20Proof.PNG)
