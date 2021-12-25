@@ -22,12 +22,14 @@ Code.EE is a coding event organized by MESA which aims to provide a platform for
 2. Name each file by group number and task number (groupX-taskY, where X is group number, Y is task number).  
 For e.g.: group1-task1, group1-task2, group1-task3.
 3. Students registered for KIE1004 are required to submit all codes and relevant document in one zip file to Spectrum.
-4. Only 1 person for each group is required to submit.  
+4. Only 1 person for each group is required to submit.
+5. **No marks** will be given for submission after 15 minutes of competition ends (before 2pm).  
+6. As long as you submit something **within the 15 minutes after competition ends (before 2pm)**, you will secure marks for your assignment. Else, **if nothing is submitted**, no marks will be given.
 
 **GOOGLE FORM**
 1. Google Form link will be obtained from the output of task 3.
 2. All the project files must be submitted separately in the Google Form.
-3. Winners of the competition will be determined by the duration and correctness of your working.
+3. Winners of the **competition** will be determined by the duration and correctness of your working.
 4. Only 1 person for each group is required to submit.  
 
 # Reference table used
