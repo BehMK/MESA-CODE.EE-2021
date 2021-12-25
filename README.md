@@ -24,7 +24,7 @@ For e.g.: group1-task1, group1-task2, group1-task3.
 3. Students registered for KIE1004 are required to submit all codes and relevant document in one zip file to Spectrum.
 4. Only 1 person for each group is required to submit.
 5. **No marks** will be given for submission after 15 minutes of competition ends (before 2pm).  
-6. As long as you submit something **within the 15 minutes after competition ends (before 2pm)**, you will secure marks for your assignment. Else, **if nothing is submitted**, no marks will be given.
+6. As long as you submit something in Spectrum **within the 15 minutes after competition ends (before 2pm)**, you will secure marks for your assignment. Else, **if nothing is submitted**, no marks will be given.
 
 **GOOGLE FORM**
 1. Google Form link will be obtained from the output of task 3.
